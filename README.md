@@ -20,7 +20,7 @@ A solo project that grew bigger than planned, and two team projects that taught 
 - Secured natural-language SQL queries with a SELECT-only validator and a read-only role with Row-Level Security.
 - Deployed on AWS (EC2, S3) with Terraform and a GitHub Actions pipeline.
 
-**[WhatsApp-Java-G5](https://github.com/SalmaRahel/JAVA_Projet)** · Group project  
+**[WhatsApp-Java-G5](https://github.com/SalmaRahel/JAVA_Projet)** · Group project (develop branch)
 *Where I learned how real-time apps talk over a network.*  
 *Java, JavaFX, TCP Sockets, MySQL*
 
@@ -28,7 +28,7 @@ A solo project that grew bigger than planned, and two team projects that taught 
 - Implemented 1-to-1 and group audio/video calls, voice messages, and file sharing.
 - Designed a group invitation system with per-user privacy settings.
 
-**[bookNplay](https://github.com/IlyasGarhani/Plateforme_ReservationDeTerrains_Docker)** · Group project  
+**[bookNplay](https://github.com/IlyasGarhani/Plateforme_ReservationDeTerrains_Docker)** · Group project (fix-test branch)
 *Where I learned to ship as a team: containers, pipelines and cloud.*  
 *Angular, Laravel, Docker, Nginx, MySQL, Terraform, AWS*
 
