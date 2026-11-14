@@ -8,7 +8,9 @@ I learn by building real things and putting them online.
 
 ### What I've been building
 
-A solo project that grew bigger than planned, and two team projects that taught me how to build together.
+[Clicktrace](https://github.com/SalmaRahel/clicktrace) · Personal project, in progress
+*A Chrome DevTools tool that follows one browser click through the front end, back end, database and queues, and tells you what went wrong, what could be better, and how to fix it.*
+Planned stack: Java 21 · Spring Boot · Spring Data JPA · SQLite · Python · FastAPI · SQLAlchemy · PostgreSQL · Redis Streams · TypeScript · React · Chrome extension · MCP · JUnit · Mockito · pytest · Docker · GitHub Actions
 
 **[Job Tracker](https://github.com/SalmaRahel/job-tracker)** · Personal project  
 *My biggest solo project, built to keep my own internship search organised.*  
@@ -46,4 +48,4 @@ A solo project that grew bigger than planned, and two team projects that taught 
 
 ### Let's talk
 
-I'm open to internship opportunities for 2027. Come say hello on [LinkedIn](https://www.linkedin.com/in/salma-r-7b0716290).
+I'm open to PFA internship opportunities for 2027. Come say hello on [LinkedIn](https://www.linkedin.com/in/salma-r-7b0716290).
