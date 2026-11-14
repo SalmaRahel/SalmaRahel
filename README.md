@@ -8,10 +8,6 @@ I learn by building real things and putting them online.
 
 ### What I've been building
 
-**[Clicktrace](https://github.com/SalmaRahel/clicktrace)** · Personal project, in progress  
-*A Chrome DevTools tool that follows one browser click through the front end, back end, database and queues, and tells you what went wrong, what could be better, and how to fix it.*  
-*Planned stack: Java 21 · Spring Boot · Spring Data JPA · SQLite · Python · FastAPI · SQLAlchemy · PostgreSQL · Redis Streams · TypeScript · React · Chrome extension · MCP · JUnit · Mockito · pytest · Docker · GitHub Actions*
-
 **[Job Tracker](https://github.com/SalmaRahel/job-tracker)** · Personal project  
 *My biggest solo project, built to keep my own internship search organised.*  
 *React, FastAPI, Python, PostgreSQL, Redis, Docker, Terraform, AWS*
